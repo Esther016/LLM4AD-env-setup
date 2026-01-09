@@ -232,6 +232,7 @@ host: api.deepseek.com
 
 model: deepseek-chat
 
-![GUI](http://github.com/Esther016/LLM4AD-env-setup/blob/main/GUI.png)
+![GUI](https://github.com/Esther016/LLM4AD-env-setup/raw/main/GUI.png)
 
-![terminal](https://github.com/Esther016/LLM4AD-env-setup/blob/main/terminal.png)
+![terminal](https://github.com/Esther016/LLM4AD-env-setup/raw/main/terminal.png)
+
